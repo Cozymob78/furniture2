@@ -2,7 +2,7 @@
 .whatsapp-button {
     position: fixed; /* Makes the button float */
     bottom: 20px;    /* Distance from the bottom of the viewport */
-    right: 20px;     /* Distance from the right of the viewport */
+    left: 20px;     /* Distance from the right of the viewport */
     background-color: #25D366; /* WhatsApp green */
     color: white;
     border-radius: 50%; /* Makes it a perfect circle */
